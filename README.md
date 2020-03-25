@@ -2,6 +2,11 @@
 vvvv styleguide.
 Handle with care.
 
+
+## Logos
+
+__Beta__: [SVGs](https://github.com/vvvv/PressKit/tree/master/beta/logos)
+
 ## Fonts
 #### Gamma
 | Usage | Font |
