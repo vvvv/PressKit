@@ -1,7 +1,8 @@
 # PressKit
-vvvv styleguides
+vvvv styleguide.
+Handle with care.
 
-### Fonts
+## Fonts
 #### Gamma
 | Usage | Font |
 | - | - |
@@ -15,7 +16,7 @@ vvvv styleguides
 | UI Default | Lucida Sans Unicode |
 | Node Name | Small Fonts |
 
-### Colors
+## Colors
 #### Gamma
 | Usage | Color |
 | - | - |
