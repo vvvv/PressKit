@@ -7,6 +7,8 @@ Handle with care.
 
 __Beta__: [SVGs](https://github.com/vvvv/PressKit/tree/master/beta/logos)
 
+__Gamma__: [SVGs](https://github.com/vvvv/PressKit/tree/master/gamma/logos)
+
 ## Fonts
 #### Gamma
 | Usage | Font |
